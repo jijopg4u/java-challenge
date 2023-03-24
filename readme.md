@@ -21,12 +21,12 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 - commit and push
 
 - Enhance the code in any ways you can see, you are free! Some possibilities:
-  - Add tests
-  - Change syntax
-  - Protect controller end points
-  - Add caching logic for database calls
-  - Improve doc and comments
-  - Fix any bug you might find
+  - Add tests - Done
+  - Change syntax - Done
+  - Protect controller end points- Done
+  - Add caching logic for database calls - Done
+  - Improve doc and comments - Done
+  - Fix any bug you might find - Done
 - Edit readme.md and add any comments. It can be about what you did, what you would have done if you had more time, etc.
 - Send us the link of your repository.
 
@@ -50,3 +50,4 @@ Please let us know more about your Java experience in a few sentences. For examp
 - I have 3 years experience in Java and I started to use Spring Boot from last year
 - I'm a beginner and just recently learned Spring Boot
 - I know Spring Boot very well and have been using it for many years
+Jijo Comments: I have 8 years of experience in Java, i have been using Spring and Spring boot for last 4 years. I am integratin specialist. I have 4 years of experience in Guidewire Integratio as well. I am a Guidewire certified associate as well as Fortify certified java developer. I am pursuing JPNT N3 and I have experiec in handling japanese clients
